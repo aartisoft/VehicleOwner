@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "870726473722",
+    "firebase_url": "https://vehicle-owner.firebaseio.com",
+    "project_id": "vehicle-owner",
+    "storage_bucket": "vehicle-owner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870726473722:android:3b52a321d48ef9ec",
+        "android_client_info": {
+          "package_name": "idea.spark.in.vehicleowner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870726473722-t7clr9g1g0l89tdd6tqv85nc3n8b6blb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idea.spark.in.vehicleowner",
+            "certificate_hash": "DD429FE1051D1908C2863645F79E3E03BB712F2E"
+          }
+        },
+        {
+          "client_id": "870726473722-9pve3sh1tr568kvr8303av6m56fkdv62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqAzHf3HYXAdo_rxBkUsh24drnT-Nqat0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870726473722-9pve3sh1tr568kvr8303av6m56fkdv62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

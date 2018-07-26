@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Vehicle Owner</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="regnopart1">State - Dist - Prefix</string>
+    <string name="regnopart2">Last 4 digits</string>
+    <string name="regnoparteg">Eg: KA19P 8488 (Space not required b/w characters)</string>
+    <string name="searchbtn">Get Registration Details</string>
+
+
+    <string name="banner_top_ad_unit_id">ca-app-pub-4283164631469341/5677740518</string>
+    <string name="banner_bottom_ad_unit_id">ca-app-pub-4283164631469341/7154473711</string>
+    <string name="interstitial_result_ad_unit_id">ca-app-pub-4283164631469341/9968339310</string>
+    <string name="title_activity_result">Registration Details</string>
+    <string name="title_activity_result_screen">Registration Details</string>
+
+    <string name="regdet">VEHICLE REGISTRATION DETAILS</string>
+    <string name="regdetindia">(INDIA)</string>
+
+
+
+    <string name="ownername">OWNER NAME</string>
+    <string name="vehclass">VEHICLE CLASS</string>
+    <string name="model">MODEL</string>
+    <string name="regno">REGISTRATION NUMBER</string>
+    <string name="regdt">REGISTRATION DATE</string>
+    <string name="chasisno">CHASIS NUMBER</string>
+    <string name="engineno">ENGINE NUMBER</string>
+    <string name="fueltype">FUEL TYPE</string>
+    <string name="rtoname">RTO NAME</string>
+
+
+
+</resources>

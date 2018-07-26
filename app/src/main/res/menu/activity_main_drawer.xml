@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_v_search"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="Vehicle Search" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="Share App" />
+            <item
+                android:id="@+id/nav_rateus"
+                android:icon="@drawable/ic_thumbs_up_down_black_24dp"
+                android:title="Rate Us" />
+        </menu>
+    </item>
+
+</menu>
